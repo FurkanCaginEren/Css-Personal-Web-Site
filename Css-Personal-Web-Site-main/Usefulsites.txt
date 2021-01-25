@@ -1,4 +1,0 @@
-flaticon
-colorhunt
-font.google
-giphy
